@@ -69,6 +69,7 @@ st.markdown("""
 .block-container{padding-top:1.3rem;max-width:1450px}
 h1,h2,h3{color:#1d4f91}
 [data-testid="stMetric"]{background:#f6f9ff;border:1px solid #c9d9f3;padding:14px;border-radius:14px}
+[data-testid="stMetricValue"],[data-testid="stMetricValue"] *{color:#082a73 !important;font-weight:800 !important}
 .stButton>button{border-radius:10px}
 </style>
 """, unsafe_allow_html=True)
