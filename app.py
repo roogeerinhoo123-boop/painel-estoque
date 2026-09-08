@@ -64,7 +64,7 @@ def cabecalho():
     <div class="tecnor-header">
       <div class="tecnor-logo-box"><div class="tecnor-wordmark">tecnor</div></div>
       <div>
-        <div class="tecnor-title">Painel Interativo de Estoque</div>
+       <div class="tecnor-title">Painel Interativo de Estoque - MONTAGEM</div>
         <div class="tecnor-subtitle">Produtos, localização, clientes e quantidades em uma base online compartilhada</div>
       </div>
     </div>
